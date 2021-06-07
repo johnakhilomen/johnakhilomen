@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator with a Bachelors degree in Computer Science and two Post-graduate diplomas in Computer Science and Information Technology from Leicester University and University of Derby. Over 10 Years of IT Experience in (Architecture, Design, Testing & Development) of Web-based, Software systems and rich GUI-based Windows applications using Microsoft & OpenSource Technologies. I'm passionate about Literature, Education, Reading, Computer Programming. I am also an open-source enthusiast and maintainer. I also share tutorials here on github.
+Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator with a Bachelors degree in Computer Science and two Post-graduate diplomas in Computer Science and Information Technology from Leicester University and University of Derby. Over 15 Years of IT Experience in (Architecture, Design, Testing & Development) of Web-based, Software systems and rich GUI-based Windows applications using Microsoft & OpenSource Technologies. I'm passionate about Literature, Education, Reading, Computer Programming. I am also an open-source enthusiast and maintainer. I also share tutorials here on github.
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/it_computer_programming.jpeg" width="500" height="320" />
   
@@ -26,8 +26,7 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 **TechStack:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pgsql/pgsql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ef/ef.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -55,15 +54,6 @@ CSS          10 mins         ▒░░░░░░░░░░░░░░░░
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/johnakhilomen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 My GitHub Stats
 
