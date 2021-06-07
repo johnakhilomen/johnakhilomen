@@ -16,11 +16,11 @@
 
 <br />
 
-Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator with a Bachelors degree in Computer Science and two Post-graduate diplomas in Computer Science and Information Technology from Leicester University and University of Derby. Passionate about Literature, Education, Reading, Computer Programming. I am also an open-source enthusiast and maintainer. I also share tutorials here on github.
+Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator with a Bachelors degree in Computer Science and two Post-graduate diplomas in Computer Science and Information Technology from Leicester University and University of Derby. Over 10 Years of IT Experience in (Architecture, Design, Testing & Development) of Web-based, Software systems and rich GUI-based Windows applications using Microsoft & OpenSource Technologies. I'm passionate about Literature, Education, Reading, Computer Programming. I am also an open-source enthusiast and maintainer. I also share tutorials here on github.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/it_computer_programming.jpeg" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](john@john) :)
+- 💼 Any freelance work? Do reach, [email](johnblithe@rocketmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **TechStack:**  
