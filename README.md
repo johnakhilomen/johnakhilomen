@@ -44,10 +44,10 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JSX          13 hrs 18 mins  █████████████████████▓░░░   86.59 % 
-JavaScript   1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+c#           15 hrs 18 mins   
+JavaScript   10 hr 50 mins    
+Kotlin       5 hrs           
+React        9hrs             
 ```
 <!--END_SECTION:waka-->
 
