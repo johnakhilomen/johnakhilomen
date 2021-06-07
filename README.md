@@ -5,10 +5,10 @@
 <a href="https://twitter.com/johnakhilomen">
   <img align="left" alt="John Akhilomen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/johnakhilomen/">
+<a href="https://www.linkedin.com/in/johnakhilomen/">
   <img align="left" alt="John's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/johnakhilomen">
   <img align="left" alt="johnakhilomen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
