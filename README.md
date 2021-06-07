@@ -51,7 +51,7 @@ React        9hrs
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+You can take a look at my Github stats below 🥺👉👈
 
 📈 My GitHub Stats
 
