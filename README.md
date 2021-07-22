@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator with a Bachelors degree in Computer Science and two Post-graduate degress (in Computer Science and Information Technology). Passionate about Literature, Education, Reading, Computer Programming. An open-source enthusiast and maintainer. Enjooys sharing tutorials on github.
+Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator with a Bachelors degree in Computer Science and two Post-graduate degress (in Computer Science and Information Technology). Passionate about Literature, Education, Reading, Computer Programming. An open-source enthusiast and maintainer. Enjoys sharing tutorials on github.
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/it_computer_programming.jpeg" width="500" height="320" />
   
