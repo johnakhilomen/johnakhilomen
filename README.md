@@ -20,7 +20,6 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/it_computer_programming.jpeg" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](johnblithe@rocketmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **TechStack:**  
