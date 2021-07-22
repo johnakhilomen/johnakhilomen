@@ -39,8 +39,8 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 <!--START_SECTION:waka-->
 ```text
 c#           15 hrs 18 mins   
-JavaScript   10 hr 50 mins    
-Kotlin       5 hrs           
+JavaScript   13 hr 50 mins    
+Python       25 hrs           
 React        9hrs             
 ```
 <!--END_SECTION:waka-->
