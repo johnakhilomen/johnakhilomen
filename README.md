@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator. An open-source enthusiast and maintainer. Enjoys sharing tutorials on github.
+Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator. Specialization includes Artificial intelligence (AI) & Embedded Systems. 
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/it_computer_programming.jpeg" width="500" height="320" />
   
