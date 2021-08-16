@@ -12,6 +12,7 @@
   <img align="left" alt="johnakhilomen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=johnakhilomen.johnakhilomen)
 
 <br />
@@ -34,6 +35,7 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
