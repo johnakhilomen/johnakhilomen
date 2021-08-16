@@ -40,10 +40,11 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-c#           15 hrs 18 mins   
+TS           30 hrs 18 mins   
 JavaScript   13 hr 50 mins    
 Python       25 hrs           
-React        9hrs             
+React        25hrs     
+Rust        9hrs    
 ```
 <!--END_SECTION:waka-->
 
