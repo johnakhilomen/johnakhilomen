@@ -40,7 +40,7 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TS           30 hrs 18 mins   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>           30 hrs 18 mins   
 JavaScript   13 hr 50 mins    
 Python       25 hrs           
 React        25hrs     
