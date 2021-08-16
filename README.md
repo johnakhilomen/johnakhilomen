@@ -44,7 +44,7 @@ TS           30 hrs 18 mins
 JavaScript   13 hr 50 mins    
 Python       25 hrs           
 React        25hrs     
-Rust         9hrs    
+Rust         19hrs    
 ```
 <!--END_SECTION:waka-->
 
