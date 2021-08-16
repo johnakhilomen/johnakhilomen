@@ -37,7 +37,7 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **This Month I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 TS           30 hrs 18 mins   
