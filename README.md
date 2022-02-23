@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer and educator. Specialization includes Artificial intelligence (AI), Blockchain, Embedded & Systems dev. Founder @agileexecute 👉 www.agileexecute.com. 
+Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer, tech entrepreneur and educator. Specialization includes Artificial intelligence (AI), Blockchain, Embedded & Systems dev. Founder @agileexecute 👉 www.agileexecute.com. 
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/it_computer_programming.jpeg" width="500" height="320" />
   
@@ -35,7 +35,7 @@ Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 📊 **This Month I Spent My Time On:**
