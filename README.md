@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer, tech entrepreneur and educator. Specialization includes Artificial intelligence (AI), Blockchain, Embedded & Systems dev. Founder @agileexecute 👉 www.agileexecute.com. 
+Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer, tech entrepreneur and educator. Specialization includes Artificial intelligence (AI), Blockchain, Embedded & Systems dev.  👉 
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/it_computer_programming.jpeg" width="500" height="320" />
   
