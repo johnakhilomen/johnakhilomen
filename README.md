@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer with a particular expertise in Artificial Intelligence (AI), Blockchain, and Internet of Things (IoT).  👉 
+Hi, I'm [John Akhilomen](https://johnakhilomen.com/), Researcher/Educator with specialized expertise in cutting-edge technologies such as Artificial Intelligence (AI), Blockchain, and the Internet of Things (IoT). With extensive experience in developing complex software systems and a passion for innovative solutions. Dedicated to driving technological advancement and achieving excellence in every project.  👉 
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/3.png" width="500" height="500" />
   
