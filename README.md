@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer, tech entrepreneur and educator. Specialization includes Artificial intelligence (AI), Blockchain and IOT.  👉 
+Hi, I'm [John Akhilomen](https://johnakhilomen.com/), professional software engineer with a particular expertise in Artificial Intelligence (AI), Blockchain, and Internet of Things (IoT).  👉 
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/3.png" width="500" height="500" />
   
