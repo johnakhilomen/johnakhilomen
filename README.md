@@ -3,5 +3,5 @@ Hello, I'm [John Akhilomen](https://johnakhilomen.com/), Researcher/Educator wit
 
   <img align="right" alt="GIF" src="https://github.com/johnakhilomen/johnakhilomen/blob/main/3.png" width="500" height="500" />
   
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help.
 
